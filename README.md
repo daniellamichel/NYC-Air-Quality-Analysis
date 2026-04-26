@@ -1,5 +1,4 @@
 # 🗽 NYC Air Quality Analysis (1973)
-#R #DataScience #EnvironmentalScience #DataVisualization #MIE272
 
 A statistical analysis and data visualization project exploring the `airquality` dataset. This project examines daily air quality measurements in New York from May to September 1973, focusing on temperature, wind speed, and ozone levels to identify seasonal trends and correlations.
 
